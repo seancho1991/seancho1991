@@ -3,7 +3,7 @@
 - 🛩 and then I got a FAA commercial pilot certifiacte on USA as a test pilot and worked L3 Harris for development of USA ARMY aircraft devices. 
 - 🌱 I’m currently learning ..using MLops for baterry performance expectation for a project of LG Engergy Solution.
 - 💞️ I’m collaborate on ...LG E&S and join intergrated Ph.D course at Korea Univ with a LG Energy Solution scholarships program. 
-- My specific topic for my research is improvement of technic for Battery performance simulation by using ML/DL. 
+- My specific topic for my research is improvement of technich for Battery performance simulation by using ML/DL. 
 
 <!---
 seancho1991/seancho1991 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
