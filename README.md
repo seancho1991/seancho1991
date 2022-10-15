@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @seancho1991 ! 
 - 👀 I studied Material Science & Engineering at Yonsei Univ 2018
-- 🛩 and then I got a FAA commercial pilot certifiacte on USA as a test pilot for General Aviation 
+- 🛩 and then I got a FAA commercial pilot certifiacte on USA as a test pilot and worked L3 Harris for development of USA ARMY aircraft devices. 
 - 🌱 I’m currently learning ..using MLops for baterry performance expectation for a project of LG Engergy Solution.
 - 💞️ I’m collaborate on ...LG E&S and join intergrated Ph.D course at Korea Univ. as a LG Energy Solution Scholorship program. 
 
